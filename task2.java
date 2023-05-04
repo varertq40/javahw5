@@ -1,7 +1,5 @@
 // Реализовать алгоритм пирамидальной сортировки (HeapSort).
 
-// Реализация пирамидальной сортировки на Java
-
 import java.util.Arrays;
 
 public class task2
